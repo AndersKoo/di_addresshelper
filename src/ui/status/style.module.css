@@ -1,0 +1,37 @@
+.container {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.success {
+  background-color: #28a74520;
+  border: 1px solid #28a745;
+  color: #28a745;
+}
+
+.warning {
+  background-color: #ffc10720;
+  border: 1px solid #ffc107;
+  color: #ffc107;
+}
+
+.error {
+  background-color: #dc354520;
+  border: 1px solid #dc3545;
+  color: #dc3545;
+}
+
+.info {
+  background-color: #17a2b820;
+  border: 1px solid #17a2b8;
+  color: #17a2b8;
+}
+
+.default {
+  background-color: #6c757d20;
+  border: 1px solid #6c757d;
+  color: #6c757d;
+}
